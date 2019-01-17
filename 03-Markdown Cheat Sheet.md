@@ -1,6 +1,6 @@
 # Markdown Cheatsheet
 
-Collection Services documentation is encoded using Markdown. The following explains how to encode the features most commonly found in Collection Services manuals and documents. For information on additional features not covered here, additional Markdown resources are listed [here](#Additional-markdown-resources).
+Collection Services documentation is encoded using Markdown. The following explains how to encode the features most commonly found in Collection Services' manuals and documents. For information on additional features not covered by this cheat sheet, additional Markdown resources are listed [here](#Additional-markdown-resources).
 
 * [1.0 Headings](#10-headings)
 * [2.0 Emphasis](#20-emphasis)

@@ -13,13 +13,13 @@ Now that you a ready to begin editing, what is it that you wish to do?
 * [I am making substantive changes or additions](#I-am-making-substantive-changes-or-additions)
 * [I have been listed as a reviewer and need to view the pull request, add my comments, and/or merge the pull request](#I-have-been-listed-as-a-reviewer-and-need-to-view-the-pull-request-add-my-comments-andor-merge-the-pull-request)
 
-* I want [tips for writing good commit messages](#Tips-for-writing-good-commit-messages)
+* [I want tips for writing good commit messages](#Tips-for-writing-good-commit-messages)
 ## I need to make a very minor change (e.g., correct a typo, make a minor stylistic change, etc)
 
 1. Select the page on which you wish to make your edit.
 2. Click the small edit icon (it looks like a pencil) on the top right-hand side of the page.
 3. Make your edit to the page. You may preview your changes by selecting the *Preview changes* tab.
-4. Once happy with your changes, scroll down to the bottom of the page and enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. You may add an extended description in tne message body if necessary. Find tips on writing good commit messages [here](#Tips-for-writing-good-commit-messages).
+4. Once happy with your changes, scroll down to the bottom of the page and enter a subject line for your commit message. This should be short (less than 50 characters) but descriptive. Be as specific as you can about the changes you have made. You may add an extended description in the message body if necessary. Find tips on writing good commit messages [here](#Tips-for-writing-good-commit-messages).
 5. Click *Commit changes*.
 
 ## I am revising documentation based on previous discussions with Collection Services staff or I am the designated owner of the documentation in question
