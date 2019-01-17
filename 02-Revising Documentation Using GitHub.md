@@ -4,6 +4,8 @@ In order to make changes to Rose Library documentation stored using GitHub, you 
 
 Once you have a GitHub account, an administrator for the Rose-CollectionServices account must add you as a collaborator to each Rose-CollectionServices repository that you wish to edit. Once added, you will receive an email inviting you to collaborate on the relevant repository. Accept this invitation and you are ready to begin editing.
 
+**NOTE:** Collection Services' documentation pages are encoded using Markdown. A Markdown cheat sheet is available [here](03-Markdown%20Cheat%20Sheet.md).
+
 Now that you a ready to begin editing, what is it that you wish to do?
 
 * [I need to make a very minor change (e.g., correct a typo, make a minor stylistic change, etc)](#I-need-to-make-a-very-minor-change-eg-correct-a-typo-make-a-minor-stylistic-change-etc)
@@ -11,7 +13,7 @@ Now that you a ready to begin editing, what is it that you wish to do?
 * [I am making substantive changes or additions](#I-am-making-substantive-changes-or-additions)
 * [I have been listed as a reviewer and need to view the pull request, add my comments, and/or merge the pull request](#I-have-been-listed-as-a-reviewer-and-need-to-view-the-pull-request-add-my-comments-andor-merge-the-pull-request)
 
-* [Tips for writing good commit messages](#Tips-for-writing-good-commit-messages)
+* I want [tips for writing good commit messages](#Tips-for-writing-good-commit-messages)
 ## I need to make a very minor change (e.g., correct a typo, make a minor stylistic change, etc)
 
 1. Select the page on which you wish to make your edit.

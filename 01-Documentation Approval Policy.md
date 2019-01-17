@@ -20,7 +20,7 @@ All other changes must be submitted via a pull request:
 * Substantive changes should be reviewed and approved by at least one other member of staff including, where relevant, the listed content owner. Where required, review should take place within three working days of a request being made.
 * If a determination is made to remove a piece of documentation in its entirety, notify any Collection Services team member with administrative access to the Collection Services GitHub account.
 
-Refer to the Rose Library guide to GitHub for technical instructions (forthcoming) on how to revise existing Collection Services documentation stored in GitHub.
+Refer to the [Revising documentation using GitHub](02-Revising%20Documentation%20Using%20GitHub.md) for technical instructions on how to revise existing Collection Services documentation stored in GitHub.
 
 
 ---
